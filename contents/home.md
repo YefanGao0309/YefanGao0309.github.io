@@ -3,18 +3,14 @@
 I'm currently doing some research in machine learning.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>tbeatty8@asu.edu</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
+**Arizona State University**, undergraduate,2024-2028 
+• Major in Computer Science.
+• GPA: 3.89/4  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Machine Learning
