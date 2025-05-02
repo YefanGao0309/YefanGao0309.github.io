@@ -10,7 +10,7 @@ I'm currently doing some research in machine learning.
 
 **Arizona State University**, undergraduate,2024-2028 
 • Major in Computer Science.
-• GPA: 3.89/4  
+• GPA: 3.9/4  
 
 #### Research Interests  
 Machine Learning
